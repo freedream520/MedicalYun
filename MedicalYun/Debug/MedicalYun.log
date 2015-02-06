@@ -1,0 +1,9 @@
+﻿Build started 2015/2/6 13:28:25.
+     1>Project "J:\qt_Load--141128\MedicalYun\MedicalYun\MedicalYun.vcxproj" on node 2 (CustomBuild target(s)).
+     1>CustomBuild:
+         Uic'ing medicalyun.ui...
+     1>Done Building Project "J:\qt_Load--141128\MedicalYun\MedicalYun\MedicalYun.vcxproj" (CustomBuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.18
