@@ -1,9 +1,31 @@
-﻿Build started 2015/2/6 13:28:25.
-     1>Project "J:\qt_Load--141128\MedicalYun\MedicalYun\MedicalYun.vcxproj" on node 2 (CustomBuild target(s)).
-     1>CustomBuild:
-         Uic'ing medicalyun.ui...
-     1>Done Building Project "J:\qt_Load--141128\MedicalYun\MedicalYun\MedicalYun.vcxproj" (CustomBuild target(s)).
+﻿Build started 2015/2/10 10:34:23.
+     1>Project "J:\qt_Load--141128\MedicalYun\MedicalYun\MedicalYun.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\MedicalYun.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /Id:\Qt\4.8.6\include /I.\GeneratedFiles\Debug /Id:\Qt\4.8.6\include\QtCore /Id:\Qt\4.8.6\include\QtGui /Id:\Qt\4.8.6\include\QtSql /Id:\Qt\4.8.6\include\QtNetwork /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_SQL_LIB /D QT_NETWORK_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt myuploadthread.cpp
+         myuploadthread.cpp
+         All outputs are up-to-date.
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\qt_Load--141128\MedicalYun\Win32\Debug\\MedicalYun.exe" /NOLOGO /LIBPATH:d:\Qt\4.8.6\lib qtmaind.lib QtCored4.lib QtGuid4.lib QtSqld4.lib QtNetworkd4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MedicalYun.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"J:\qt_Load--141128\MedicalYun\Win32\Debug\MedicalYun.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\qt_Load--141128\MedicalYun\Win32\Debug\MedicalYun.lib" /MACHINE:X86 Debug\filetransfer.obj
+         Debug\moc_filetransfer.obj
+         Debug\moc_medicalyun.obj
+         Debug\moc_myuploadthread.obj
+         Debug\qrc_medicalyun.obj
+         Debug\main.obj
+         Debug\medicalyun.obj
+         Debug\myuploadthread.obj
+         LINK : J:\qt_Load--141128\MedicalYun\Win32\Debug\\MedicalYun.exe not found or not built by the last incremental link; performing full link
+         MedicalYun.vcxproj -> J:\qt_Load--141128\MedicalYun\Win32\Debug\MedicalYun.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"J:\qt_Load--141128\MedicalYun\Win32\Debug\\MedicalYun.exe;#1" /manifest Debug\MedicalYun.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\MedicalYun.unsuccessfulbuild".
+         Touching "Debug\MedicalYun.lastbuildstate".
+     1>Done Building Project "J:\qt_Load--141128\MedicalYun\MedicalYun\MedicalYun.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.18
+Time Elapsed 00:00:00.90

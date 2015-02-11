@@ -3,6 +3,7 @@
 
 #include <QtGui/QMainWindow>
 #include "ui_medicalyun.h"
+#include "filetransfer.h"
 
 class MedicalYun : public QMainWindow
 {
@@ -13,6 +14,7 @@ public:
 	~MedicalYun();
 
 private:
+	filetransfer *_filetransfer;
 	Ui::MedicalYunClass ui;
 };
 
